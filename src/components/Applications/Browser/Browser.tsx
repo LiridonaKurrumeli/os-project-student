@@ -484,7 +484,7 @@ export const Browser = () => {
         <div className="flex gap-4">
           <span>🔒 Secure Connection</span>
           <span>⭐ {bookmarks.length} Bookmarks</span>
-          <span>📜 {history.length} History</span>
+          <span>📜 {history.length} History </span>
         </div>
         <div className="truncate max-w-md">
           <span>🌐 {getDisplayUrl(currentUrl)}</span>
