@@ -70,3 +70,5 @@ After creating the production build you can preview the build, by running:
 - `npm run generate:icons`
 
 This script will generate all the icons from the `assets/icons` into a single component called `Icon.generated.tsx` that we can use throughout the application where we need to render an Icon.
+
+# os-project-student
