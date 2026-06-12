@@ -1,4 +1,3 @@
-// src/components/Applications/Browser/Browser.tsx
 import { useState, useEffect } from "react";
 import { Input } from "@components/shared/Input/Input";
 import { Button } from "@components/shared/Button/Button";
